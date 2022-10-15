@@ -1,0 +1,2 @@
+# SecondRepofromTerraform
+My second resource
